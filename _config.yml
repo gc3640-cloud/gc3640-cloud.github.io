@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
-title: Gary's homepage
-description: My homepage. I am learning to code. HTML site here: https://gc3640-cloud.github.io/page.html
+theme: "jekyll-theme-minimal"
+title: "Gary's homepage"
+description: "My homepage. I am learning to code. HTML site here: https://gc3640-cloud.github.io/page.html"
